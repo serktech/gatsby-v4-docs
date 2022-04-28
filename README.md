@@ -3,4 +3,4 @@
 
 This is the project Gatsby lab
 
-See the [Demo site](https://example.com) for more details.
+See the [Demo site](https://review-gatsby-v4.netlify.app/) for more details.
