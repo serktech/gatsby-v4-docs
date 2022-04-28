@@ -5,15 +5,15 @@ import { StaticImage } from 'gatsby-plugin-image'
 const IndexPage = () => {
     return (
         <Layout pageTitle="Home Page">
-            <StaticImage
-                alt="logo gatsby"
-                src="../images/icon.png"
-            />
-            <p>I'm making this by following the Gatsby Tutorial.</p>
+            {/*<StaticImage*/}
+            {/*    alt="logo gatsby"*/}
+            {/*    src="../images/icon.png"*/}
+            {/*/>*/}
+            <p>Reviewing Gatsby v4.</p>
 
             <StaticImage
-                alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
-                src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=small"
+                alt="random cat"
+                src="https://images.unsplash.com/photo-1577349516274-37ff88a53627?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
             />
 
 

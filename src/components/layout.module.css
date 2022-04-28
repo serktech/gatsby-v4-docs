@@ -3,9 +3,13 @@
     max-width: 500px;
     font-family: sans-serif;
 }
+a{
+    color: #1482ce;
+}
+
 
 .heading {
-    color: rebeccapurple;
+    color: #1482ce;
     text-align: center;
 }
 .nav-links {
